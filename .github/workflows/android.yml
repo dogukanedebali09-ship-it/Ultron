@@ -27,3 +27,4 @@ jobs:
         with:
           name: jarvis-debug-apk
           path: app/build/outputs/apk/debug/*.apk
+        working-directory: jarvis-android
